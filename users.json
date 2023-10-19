@@ -1,0 +1,42 @@
+{
+  "user1": {
+      "id": 1,
+      "firstname": "Bazley",
+      "lastname": "Tan",
+      "position": "Coach",
+      "location": "Boston",
+      "Company": "Boston Celtics"
+  },
+  "user2": {
+      "id": 2,
+      "firstname": "Richard",
+      "lastname": "Deuna",
+      "position": "Manager",
+      "location": "Davao City",
+      "Company": "Alorica Call Center"
+  },
+  "user3": {
+      "id": 3,
+      "firstname": "Joelluis",
+      "lastname": "Nujapa",
+      "position": "Computer Analyst",
+      "location": "Dubai",
+      "Company": "Emmar Properties"
+  },
+  "user4": {
+      "id": 4,
+      "firstname": "John Matthew",
+      "lastname": "Moriilo",
+      "position": "Police Officer",
+      "location": "Los Angeles",
+      "Company": "Los Angeles Police Department"
+  },
+  "user5": {
+      "id": 5,
+      "firstname": "James",
+      "lastname": "Guillena",
+      "position": "Player",
+      "location": "Los Angeles",
+      "Company": "LA Lakers"
+  }
+}
